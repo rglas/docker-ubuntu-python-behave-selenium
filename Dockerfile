@@ -29,6 +29,3 @@ RUN pip install selenium \
                           behave \ 
                           xvfbwrapper
                           
-
-RUN tar -xvvf tests.tar
-
